@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mi Casa</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="name_or_email">Name or Email</string>
+    <string name="welcome">Welcome!</string>
+    <string name="mi_casa">MI CASA</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="phone_icon">phone</string>
+    <string name="exercise_icon">exercise</string>
+    <string name="food_icon">food</string>
+    <string name="music_icon">music</string>
+    <string name="settings_icon">settings</string>
+    <string name="weather_icon">weather</string>
+</resources>
